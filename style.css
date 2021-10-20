@@ -30,6 +30,11 @@ main h2 {
     background-color: hotpink;
     padding: 3px;
 }
+.happy-go-lucky-style {
+    color: rgb(102, 102, 107);
+    background-color: rgb(36, 11, 129);
+    padding: 3px;
+}
 .jane-style {
     color: hotpink;
     background-color: black;
